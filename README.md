@@ -1,1 +1,2 @@
-# -klim
+## Projemin fikri:
+>projefikrimi buraya eklicem.
